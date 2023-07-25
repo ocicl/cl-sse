@@ -1,0 +1,10 @@
+* cl-sse
+
+Server Side Events (SSE) support/demo in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dtenny/cl-sse.git   |
+| commit  | {"messa  |
+| systems | cl-sse |
+|---------+-------------------------------------------|
+
