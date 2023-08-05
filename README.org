@@ -4,7 +4,7 @@ Server Side Events (SSE) support/demo in Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/dtenny/cl-sse.git   |
-| commit  | {"messa  |
+| commit  | c05a0fa  |
 | systems | cl-sse |
 |---------+-------------------------------------------|
 
