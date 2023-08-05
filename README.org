@@ -2,9 +2,8 @@
 
 Server Side Events (SSE) support/demo in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/dtenny/cl-sse.git   |
-| commit  | c05a0fa  |
-| systems | cl-sse |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://github.com/dtenny/cl-sse.git |
+| commit  | c05a0fa                                  |
+| systems | sse-client sse-server                    |
+|---------+------------------------------------------|
